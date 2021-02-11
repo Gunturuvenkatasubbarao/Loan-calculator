@@ -1,0 +1,25 @@
+car loan : 
+
+positive test cases : 
+
+1. user enters age and the IT returns. based on the IT returns the system will show the amount of loan that user will be eligible for. 
+2. based on the number of moths choosed by the user, the system will genetare the total amount that has to be paid including the interest amount.
+3. easy usability. the system asks for simple inputs for user.
+
+negative test cases : 
+
+1. the loan amount is calculated based on the IT returns. and no matter how much higher the IT return might be, the system does not allocates loan more than 25l.\
+2. if IT returns are less than 1L, the system does not allocate any loan amount.
+
+
+gold loan : 
+
+positive cases : 
+
+1. all the customers above the age of 18 will be eligible to apply for a loan based on the gold weight. 
+2. There is not limit for gold weight while applying for a loan 
+
+negative test cases : 
+
+1. age below 18 will not be able to apply for a gold loan though they carry gold.
+
