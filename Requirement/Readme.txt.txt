@@ -1,0 +1,1 @@
+The Aim of the project is calculate and assign the loan amount to the customer. The system provides two different types of loans: gold loan, car loan. Using different factors such as age, rate of interest and amount required, the total loan amount is calculated and given as output to the customer. The system has gone through various test cases and found efficient to use. 
