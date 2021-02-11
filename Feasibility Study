@@ -1,0 +1,10 @@
+feasibility: the problem is analyzed and a feasibility study is also performed for making sure that it is feasible for creating such a system that grants loans. The feasibility report is created and mainly three types of feasible studies are performed. Technical Feasibility, Functional Feasibility, operational Feasibility
+
+technical feasibility: In technical feasibility, both software and hardware feasibilities are checked. In the case of hardware, the created software can be executed on any configurations in which Microsoft windows operation system works. in order to run the software, a suitable environment is needed. this system was initially written in c++ and executed successfully in many platforms
+
+functional feasibility: All functional and non-functional requirements have been analyzed. Functional requirements are the one the minimum things the system should support such as this system require windows operating system and an environment to run the code successfully. All the nonfunctional requirements are avoided which could cause system damage. 
+
+operational feasibility: the system takes advantage of the opportunities identified and it satisfies the requirements identified in the requirements analysis phase of system development. the system ensures that it will work continuously without any damages in all conditions. 
+
+
+
